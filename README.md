@@ -144,7 +144,7 @@ Key Finding
 
 The dataset shows a strong increase in the number of titles toward the late 2010s, reaching a peak in 2018 with 1,146 titles. The number of titles then decreases in the subsequent years represented in the dataset.
 
-📈 Visualizations
+## 📈 Visualizations
 
 The project includes visualizations for:
 
@@ -156,7 +156,8 @@ Recent release-year trends
 
 Screenshots of the analysis are included within the respective task folders.
 
-📌 Key Insights
+## 📌 Key Insights
+
 Movies dominate the dataset, representing 69.69% of the titles.
 The United States has the largest number of titles among the countries represented.
 India ranks second in the country-wise analysis.
@@ -164,7 +165,7 @@ Netflix content production increased considerably toward the late 2010s.
 2018 was the peak release year in this dataset, with 1,146 titles.
 The number of titles decreases after the 2018 peak in the years represented.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Aseem S.
 
